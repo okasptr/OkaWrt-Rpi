@@ -2,13 +2,13 @@
 
 ## Project Introduction
 
-1. Provide OpenWrt firmware sutable for all Raspberry Pi seires, Rockchip platform, ipq400xx platform and x86 platform devices
+1. Provide OpenWrt firmware suitable for all Raspberry Pi series, Rockchip platform, ipq400xx platform and x86 platform devices
 2. Contains rich OpenWrt original LuCI plugins and community LuCI plugins
-3. The firmware is automcally compiled following the source code update to ensure the latest experience
+3. The firmware is automatically compiled following the source code update to ensure the latest experience
 4. Pre-configured local kmod repositories to avoid kmod dependency conflicts
 5. Integrate most wired, wireless, 3G/4G network card drivers without additional installation
 6. Preset the latest version of Clash core and oh-my-zsh to minimize configuration costs
-7. Provides full format firmware/files (ext4/squashgs/ubi/initramfs/rootfs)
+7. Provides full format firmware/files (ext4/squashfs/ubi/initramfs/rootfs)
 8. For advanced users, a full firmware/package build tool (imagebuilder/sdk/toolchain) is provided
 9. If you want to donate to this project, please go to [FUNDING.md](https://github.com/SuLingGG/OpenWrt-Mini/blob/main/FUNDING.md)
 
