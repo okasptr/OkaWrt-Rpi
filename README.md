@@ -1,4 +1,4 @@
-# [OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)
+# [OkaWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)
 
 ## Project Introduction
 
